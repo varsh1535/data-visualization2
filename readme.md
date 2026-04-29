@@ -69,20 +69,20 @@ const students = [
 
 * Bar Chart
 
-![Charts](screenshots/bar.png)
+![Charts](screenshots/bar.jpeg)
 
 
 * Pie Chart
 
-![Charts](screenshots/pie.png)
+![Charts](screenshots/pie.jpeg)
 
 * Scatter Plot
 
-![Charts](screenshots/scatter.png)
+![Charts](screenshots/scatter.jpeg)
 
 * Line Graph
 
-![Charts](screenshots/line.png)
+![Charts](screenshots/line.jpeg)
 
 ---
 
